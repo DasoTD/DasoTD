@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @DasoTD a Backend Software Engineer from Nigeria(Africa's Giant)
+- 👋 Hi, I’m @DasoTD a Backend Software Engineer, a Nigerian in the UK
 - 👀 I’m interested in blockchain and web3 as a whole 
-- 🌱 I’m currently learning solidity for web3 development
 - 💞️ I’m looking to collaborate on projects and web3 projects especially 
 - 📫 You can always reach me on daso.timileyin@gmail.com
 
